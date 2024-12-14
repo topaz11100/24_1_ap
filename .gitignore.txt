@@ -1,0 +1,10 @@
+ap_1st/과제_프로젝트/.vs/
+ap_1st/과제_프로젝트/과제_프로젝트/
+ap_1st/과제_프로젝트/x64/
+ap_2nd/2차과제_솔루션/.vs/
+ap_2nd/2차과제_솔루션/Debug/
+ap_2nd/2차과제_솔루션/2차과제_프로젝트
+ap_2nd/2차과제_솔루션/x64
+ap_3rd/Template/.vs/
+ap_3rd/Template/TuringMachine/
+ap_3rd/Template/x64/
